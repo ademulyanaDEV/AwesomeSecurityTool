@@ -1,0 +1,12 @@
+Security Scan Report
+Date: August 13, 2024
+Scan Type: Full Scan
+
+Host: 127.0.0.1
+Hostname: localhost
+State: up
+
+Open Ports:
+- Port: 22, Protocol: tcp, State: open, Service: ssh
+- Port: 80, Protocol: tcp, State: open, Service: http
+- Port: 443, Protocol: tcp, State: open, Service: https
